@@ -23,11 +23,13 @@ Chatty.zip
 
 
 ----------------------------------------------------------------------Functional Programming------------------------------------------------------------
+
 HaskellPrograms.zip
 (This file has several small programs written in Haskell to show understanding of functional programming.  The gcd file just finds the greatest common divisor using a recursive call.  The inserstion sort file is an insertion sort that adds to a list in O(n^2) time. The Vowels file just scans a string and pulls out all the vowls and saves them into a seperate string.)
 
 
 ----------------------------------------------------------------------C/Systems Programming--------------------------------------------------------------
+
 MyStrings.c
 (This is a small c program that is essentially the strings program on linux that runs from terminal. It opens up a file and scans it looking for 3 characters or more strings and prints them out.  This program show the understanding of pointers and the fread(), fopen(), and seek functions.)
 
@@ -39,11 +41,13 @@ myMallocFunction.c
 
 
 ----------------------------------------------------------------------C Programming and Cyber Security------------------------------------------------------
+
 DES.c
 (This is an implementation of the DES encryption algorithm in the c programming language.  The focus point here was showing and understanding of a Fiestal Network, p-boxes, s-boxes, initial permutation, inverse permutation, bit masking, logical bitwise operators, and the different types of implementing block encryption such as the CTR and ECB methods.)
 
 
 ----------------------------------------------------------------------GO Programming Language--------------------------------------------------------------
+
 minsweeper.go
 (This was a small project that I partnered up on with a friend in my comparative programming class.  We coded up a simple text based minsweeper app in the Go language to show basic Go understanding.)
 
